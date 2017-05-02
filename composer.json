@@ -1,6 +1,7 @@
 {
     "name": "php-middleware/log-http-messages",
     "description": "PSR-15 middleware for log PSR-7 HTTP messages using PSR-3 logger",
+    "license": "MIT",
     "type": "library",
     "keywords": [
         "debug",
